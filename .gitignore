@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Model files
+*.h5
+*.weights
+*.pt
+
+# Dataset and image files
+data/
+images/
+trained_data/
+validation_data/
+
+# CSV files (uncomment if you want to exclude)
+# *.csv
+
+# Local development settings
+.env
